@@ -12,6 +12,17 @@
 		D74305461BB1544F0005D451 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D74305441BB1544F0005D451 /* Main.storyboard */; };
 		D74305481BB1544F0005D451 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D74305471BB1544F0005D451 /* Assets.xcassets */; };
 		D743054B1BB1544F0005D451 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D74305491BB1544F0005D451 /* LaunchScreen.storyboard */; };
+		D76A7A071BB1560200B94000 /* SKLAppGuideViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D76A7A061BB1560200B94000 /* SKLAppGuideViewController.swift */; settings = {ASSET_TAGS = (); }; };
+		D7AF30EC1BB236FD007E4EE5 /* ip4-1.png in Resources */ = {isa = PBXBuildFile; fileRef = D7AF30E11BB236FD007E4EE5 /* ip4-1.png */; settings = {ASSET_TAGS = (); }; };
+		D7AF30ED1BB236FD007E4EE5 /* ip4-2.png in Resources */ = {isa = PBXBuildFile; fileRef = D7AF30E21BB236FD007E4EE5 /* ip4-2.png */; settings = {ASSET_TAGS = (); }; };
+		D7AF30EE1BB236FD007E4EE5 /* ip4-3.png in Resources */ = {isa = PBXBuildFile; fileRef = D7AF30E31BB236FD007E4EE5 /* ip4-3.png */; settings = {ASSET_TAGS = (); }; };
+		D7AF30EF1BB236FD007E4EE5 /* ip4-4.png in Resources */ = {isa = PBXBuildFile; fileRef = D7AF30E41BB236FD007E4EE5 /* ip4-4.png */; settings = {ASSET_TAGS = (); }; };
+		D7AF30F01BB236FD007E4EE5 /* ip4-5.png in Resources */ = {isa = PBXBuildFile; fileRef = D7AF30E51BB236FD007E4EE5 /* ip4-5.png */; settings = {ASSET_TAGS = (); }; };
+		D7AF30F11BB236FD007E4EE5 /* ip6s-1.png in Resources */ = {isa = PBXBuildFile; fileRef = D7AF30E71BB236FD007E4EE5 /* ip6s-1.png */; settings = {ASSET_TAGS = (); }; };
+		D7AF30F21BB236FD007E4EE5 /* ip6s-2.png in Resources */ = {isa = PBXBuildFile; fileRef = D7AF30E81BB236FD007E4EE5 /* ip6s-2.png */; settings = {ASSET_TAGS = (); }; };
+		D7AF30F31BB236FD007E4EE5 /* ip6s-3.png in Resources */ = {isa = PBXBuildFile; fileRef = D7AF30E91BB236FD007E4EE5 /* ip6s-3.png */; settings = {ASSET_TAGS = (); }; };
+		D7AF30F41BB236FD007E4EE5 /* ip6s-4.png in Resources */ = {isa = PBXBuildFile; fileRef = D7AF30EA1BB236FD007E4EE5 /* ip6s-4.png */; settings = {ASSET_TAGS = (); }; };
+		D7AF30F51BB236FD007E4EE5 /* ip6s-5.png in Resources */ = {isa = PBXBuildFile; fileRef = D7AF30EB1BB236FD007E4EE5 /* ip6s-5.png */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +33,17 @@
 		D74305471BB1544F0005D451 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D743054A1BB1544F0005D451 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D743054C1BB1544F0005D451 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D76A7A061BB1560200B94000 /* SKLAppGuideViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SKLAppGuideViewController.swift; sourceTree = "<group>"; };
+		D7AF30E11BB236FD007E4EE5 /* ip4-1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ip4-1.png"; sourceTree = "<group>"; };
+		D7AF30E21BB236FD007E4EE5 /* ip4-2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ip4-2.png"; sourceTree = "<group>"; };
+		D7AF30E31BB236FD007E4EE5 /* ip4-3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ip4-3.png"; sourceTree = "<group>"; };
+		D7AF30E41BB236FD007E4EE5 /* ip4-4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ip4-4.png"; sourceTree = "<group>"; };
+		D7AF30E51BB236FD007E4EE5 /* ip4-5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ip4-5.png"; sourceTree = "<group>"; };
+		D7AF30E71BB236FD007E4EE5 /* ip6s-1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ip6s-1.png"; sourceTree = "<group>"; };
+		D7AF30E81BB236FD007E4EE5 /* ip6s-2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ip6s-2.png"; sourceTree = "<group>"; };
+		D7AF30E91BB236FD007E4EE5 /* ip6s-3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ip6s-3.png"; sourceTree = "<group>"; };
+		D7AF30EA1BB236FD007E4EE5 /* ip6s-4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ip6s-4.png"; sourceTree = "<group>"; };
+		D7AF30EB1BB236FD007E4EE5 /* ip6s-5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ip6s-5.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +76,9 @@
 		D743053F1BB1544F0005D451 /* SKLAppGuideDemo */ = {
 			isa = PBXGroup;
 			children = (
+				D7AF30E01BB236FD007E4EE5 /* ip4 */,
+				D7AF30E61BB236FD007E4EE5 /* IP6S */,
+				D76A7A061BB1560200B94000 /* SKLAppGuideViewController.swift */,
 				D74305401BB1544F0005D451 /* AppDelegate.swift */,
 				D74305421BB1544F0005D451 /* ViewController.swift */,
 				D74305441BB1544F0005D451 /* Main.storyboard */,
@@ -62,6 +87,30 @@
 				D743054C1BB1544F0005D451 /* Info.plist */,
 			);
 			path = SKLAppGuideDemo;
+			sourceTree = "<group>";
+		};
+		D7AF30E01BB236FD007E4EE5 /* ip4 */ = {
+			isa = PBXGroup;
+			children = (
+				D7AF30E11BB236FD007E4EE5 /* ip4-1.png */,
+				D7AF30E21BB236FD007E4EE5 /* ip4-2.png */,
+				D7AF30E31BB236FD007E4EE5 /* ip4-3.png */,
+				D7AF30E41BB236FD007E4EE5 /* ip4-4.png */,
+				D7AF30E51BB236FD007E4EE5 /* ip4-5.png */,
+			);
+			path = ip4;
+			sourceTree = "<group>";
+		};
+		D7AF30E61BB236FD007E4EE5 /* IP6S */ = {
+			isa = PBXGroup;
+			children = (
+				D7AF30E71BB236FD007E4EE5 /* ip6s-1.png */,
+				D7AF30E81BB236FD007E4EE5 /* ip6s-2.png */,
+				D7AF30E91BB236FD007E4EE5 /* ip6s-3.png */,
+				D7AF30EA1BB236FD007E4EE5 /* ip6s-4.png */,
+				D7AF30EB1BB236FD007E4EE5 /* ip6s-5.png */,
+			);
+			path = IP6S;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -121,9 +170,19 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D7AF30F41BB236FD007E4EE5 /* ip6s-4.png in Resources */,
+				D7AF30F21BB236FD007E4EE5 /* ip6s-2.png in Resources */,
+				D7AF30F11BB236FD007E4EE5 /* ip6s-1.png in Resources */,
 				D743054B1BB1544F0005D451 /* LaunchScreen.storyboard in Resources */,
+				D7AF30F31BB236FD007E4EE5 /* ip6s-3.png in Resources */,
+				D7AF30F51BB236FD007E4EE5 /* ip6s-5.png in Resources */,
+				D7AF30ED1BB236FD007E4EE5 /* ip4-2.png in Resources */,
 				D74305481BB1544F0005D451 /* Assets.xcassets in Resources */,
+				D7AF30F01BB236FD007E4EE5 /* ip4-5.png in Resources */,
 				D74305461BB1544F0005D451 /* Main.storyboard in Resources */,
+				D7AF30EC1BB236FD007E4EE5 /* ip4-1.png in Resources */,
+				D7AF30EE1BB236FD007E4EE5 /* ip4-3.png in Resources */,
+				D7AF30EF1BB236FD007E4EE5 /* ip4-4.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -136,6 +195,7 @@
 			files = (
 				D74305431BB1544F0005D451 /* ViewController.swift in Sources */,
 				D74305411BB1544F0005D451 /* AppDelegate.swift in Sources */,
+				D76A7A071BB1560200B94000 /* SKLAppGuideViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -283,6 +343,7 @@
 				D74305511BB1544F0005D451 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

@@ -15,7 +15,18 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
 
     func application(application: UIApplication, didFinishLaunchingWithOptions launchOptions: [NSObject: AnyObject]?) -> Bool {
-        // Override point for customization after application launch.
+
+        window = UIWindow(frame: UIScreen.mainScreen().bounds)
+        window?.makeKeyAndVisible()
+        
+        let imagesForIPhone4 = (1...5).flatMap{UIImage(named: "ip4-\($0)")}
+        let imagesFoOther = (1...5).flatMap{UIImage(named: "ip6s-\($0)")}
+        
+        let nextVC = ViewController()
+        
+        
+        window?.rootViewController = SKLAppGuideViewController(imagesForIPhone4: imagesForIPhone4, imagesForOther: imagesFoOther, nextViewController: nextVC)
+        
         return true
     }
 
